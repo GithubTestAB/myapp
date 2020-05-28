@@ -5,3 +5,7 @@ function work() {
 function rest() {
   alert('Rest from GitHub!');
 }
+
+function pause() {
+  alert('Pause from GitHub');
+}
