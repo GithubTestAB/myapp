@@ -9,3 +9,7 @@ function rest() {
 function pause() {
   alert('Pause from GitHub');
 }
+
+function fork() {
+	alert('Fork form GitHub');
+}
